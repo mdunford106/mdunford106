@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mdunford106
 - 👀 I’m interested in ... Cyber Security
-- 🌱 I’m currently learning ... Alot - I am in school for Cyber security
+- I am currently working on building up my Homelab with different vulnerable VMs and practicing ethical hacking skills in TryHackme and my homelab.
+- I am also currently learning coding with Python, and will start working on JavaSript after.
 
 
 <!---
